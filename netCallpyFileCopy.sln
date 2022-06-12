@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netCallpyFile", "netCallpyFile\netCallpyFile.csproj", "{FA5965B6-3E42-4D83-91C4-6539CE326328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessPython", "ProcessPython\ProcessPython.csproj", "{58FD8D9F-229B-4FAB-AFBB-D76F431FFD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5965B6-3E42-4D83-91C4-6539CE326328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5965B6-3E42-4D83-91C4-6539CE326328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5965B6-3E42-4D83-91C4-6539CE326328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5965B6-3E42-4D83-91C4-6539CE326328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FD8D9F-229B-4FAB-AFBB-D76F431FFD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FD8D9F-229B-4FAB-AFBB-D76F431FFD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FD8D9F-229B-4FAB-AFBB-D76F431FFD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FD8D9F-229B-4FAB-AFBB-D76F431FFD21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C91A6DE-7BEF-4063-997C-844315F887F6}
+	EndGlobalSection
+EndGlobal
